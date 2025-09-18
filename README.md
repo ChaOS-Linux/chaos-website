@@ -35,3 +35,23 @@ The ChaOS website will eventually provide:
 ---
 
 ## 📦 Repository Layout (future)  
+
+---
+
+## 🤝 Contributing  
+Contributions to the website are welcome!  
+- File issues for typos, bugs, or feature requests.  
+- Submit pull requests for content updates or design improvements.   
+
+---
+
+## 📜 License  
+Website content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Code (themes, components, build scripts) is licensed under [MIT](https://opensource.org/licenses/MIT).  
+
+---
+
+## 🌐 Links  
+- [ChaOS-Linux GitHub Org](https://github.com/ChaOS-Linux)  
+
+---
