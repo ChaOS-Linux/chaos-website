@@ -52,6 +52,6 @@ Code (themes, components, build scripts) is licensed under [MIT](https://opensou
 ---
 
 ## 🌐 Links  
-- [ChaOS-Linux GitHub Org](https://github.com/ChaOS-Linux)  
-
+- [ChaOS-Linux GitHub Org](https://github.com/ChaOS-Linux)
+- [ChaOS-Linux Home](https://getchaos.org)
 ---
